@@ -9,9 +9,13 @@ eccolwell99@gmail.com
 
 ## USAGE
 
+To run the program, you need Maven and you need to run the following:
+
+``` mvn exec:java -Dexec.mainClass=RocketSoup ```
+
 ## DEPENDENCIES
 
-This project uses JSoup, but is handled by the Maven package manager.
+This project uses JSoup, but is handled by the Maven package manager. The latest version of Maven is needed.
 
 Run the following in the directory with the POM.xml:
 
